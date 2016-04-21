@@ -1,0 +1,22 @@
+{
+  "name": "awildappeared.io",
+  "version": "0.0.1",
+  "description": "A Wild Appeared Generator (awildappeared.io)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryantebeek/awildappeared.io.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bryantebeek/awildappeared.io/issues"
+  },
+  "homepage": "https://github.com/bryantebeek/awildappeared.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
