@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "awildappeared.io",
   "version": "0.0.1",
   "description": "A Wild Appeared Generator (awildappeared.io)",
